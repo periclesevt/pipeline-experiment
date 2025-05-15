@@ -1,0 +1,12 @@
+[
+  {"customer_id": 101, "status": "active",   "country": "BR"},
+  {"customer_id": 102, "status": "inactive", "country": "PT"},
+  {"customer_id": 103, "status": null,       "country": "US"},
+  {"customer_id": 104, "status": "active",   "country": "BR"},
+  {"customer_id": 105, "status": "active",   "country": "BR"},
+  {"customer_id": 106, "status": "inactive", "country": "US"},
+  {"customer_id": 107, "status": "active",   "country": "BR"},
+  {"customer_id": 108, "status": "active",   "country": null},
+  {"customer_id": 109, "status": "inactive", "country": "BR"},
+  {"customer_id": 110, "status": "active",   "country": "AR"}
+]
